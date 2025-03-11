@@ -1,2 +1,2 @@
 # Gestion_Etudiant_Java
-Un projet de gestion des étudiants en Java
+Un projet de gestion des étudiants en C
